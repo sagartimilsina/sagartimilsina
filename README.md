@@ -2,7 +2,6 @@
 
 <h3>Laravel & MERN Stack Developer | Senior Full Stack Web Developer @ XAV Technology<br>
 <em>"Code with purpose, build with passion"</em><br>
-Building Learning Platforms & APIs</h3>
 
 <hr>
 
