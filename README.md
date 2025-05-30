@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/-AJAX-005A9C?style=flat-square&logo=ajax&logoColor=white" alt="AJAX" />&nbsp;
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />&nbsp;
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />&nbsp;
- 
   <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react" alt="React" />&nbsp;
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python" alt="Python" />
 </p>
