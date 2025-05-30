@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm <strong>Sagar Timilsina</strong></h1>
 
-<h3>Laravel & MERN Stack Developer | Senior Full Stack Web Developer @ XAV Technology<br>
+<h3>Laravel Developer | Senior Full Stack Web Developer @ XAV Technology<br>
 <em>"Code with purpose, build with passion"</em><br>
 
 <hr>
