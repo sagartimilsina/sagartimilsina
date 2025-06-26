@@ -58,7 +58,7 @@
 
 <h2>🔥 GitHub Streaks</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagartimilsina&theme=react&hide_border=true&fire=DD2727&ring=DD2727" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagartimilsina&theme=react&hide_border=true&fire=DD2727&ring=DD2727" />
 </p>
 
 <hr>
